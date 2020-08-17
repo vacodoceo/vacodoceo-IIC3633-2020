@@ -3,7 +3,7 @@
 [![hackmd-github-sync-badge](https://hackmd.io/4Vm1USjtRs2ESxjzT2tyAg/badge)](https://hackmd.io/4Vm1USjtRs2ESxjzT2tyAg)
 
 
-En este *post* de blog se habla sobre el desafío visto en clases de Netflix, en donde se competía por quien entregaba un mejor sistema recomendados de películas. El autor entrega detalles sobre la competencia en sí, como el *dataset* o los mayores desafíos que la competencia presentaba, además de su experiencia y algunos detalles sobre su implementación (además de la "confesión" de que en realidad su modelo no era para llegar al 3er puesto :face_with_finger_covering_closed_lips:)
+En este *post* de blog se habla sobre el desafío visto en clases de Netflix, en donde se competía por quien entregaba un mejor sistema recomendados de películas. El autor entrega detalles sobre la competencia en sí, como el *dataset* o los mayores desafíos que la competencia presentaba, además de su experiencia y algunos detalles sobre su implementación (además de la "confesión" de que en realidad su modelo no era para llegar al 3er puesto)
 
 El *post* me pareció bastante bueno. Para alumnos recién empezando un ramo de sistemas recomendadores, leer un artículo más informal sobre la experiencia de alguien que sacó un muy buen puesto en una competencia de peso te aproxima más al tema y se ve más "humano". Me parece de gran valor como explica las distintas prácticas utilizadas, desde explicar la *compressión* de datos para llegar a explicar la *singular value descomposition* y cómo utilizar esa "técnica" (no sé si llamarle técnica realmente) ayudo enormemente a disminuir la cantidad de entradas al modelo.
 
