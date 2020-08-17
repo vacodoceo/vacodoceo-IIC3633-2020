@@ -1,5 +1,8 @@
 # Comentario "Item-Based Collaborative Filtering Recommendation Algorithms"
 
+[![hackmd-github-sync-badge](https://hackmd.io/H2i-muloTxmw2zkQm-bcHg/badge)](https://hackmd.io/H2i-muloTxmw2zkQm-bcHg)
+
+
 En este *paper* se explica a grandes rasgos como funcionan los sistemas recomendadores basados en *Collaborative Filtering*, dentro de los cuales menciona el *User-Based*, el más común, y también propone, analiza y expone resultados del *Item-Based*. Se explica también que el proponer este nuevo sistema recomendado *Item-Based* nace de distintos problemas que tiene el *User-Based*.
 
 Leer este *paper* me sirvió bastante para enterarme y comprender el funcionamiento y los problemas de los sistemas recomendadores basados en filtros colaborativos. Pienso que se exponen los términos y componentes de estos tipos de sistemas recomendadores de forma básica, lo cual es bastante cómodo para leer aún cuando no tenía conocimientos de esta área antes.
