@@ -1,1 +1,15 @@
+# Comentario "User Evaluation Framework of Recommender Systems"
 
+[![hackmd-github-sync-badge](https://hackmd.io/7HM-gpPoRzO8y7xx8oyu0Q/badge)](https://hackmd.io/7HM-gpPoRzO8y7xx8oyu0Q)
+
+A modo general, me parece muy interesante estudiar la evaluación de un modelo desde el punto de vista de un usuario. Hasta antes de leer el *paper* no me había cuestionado el solo haber visto evaluaciones matemáticas de los modelos, lo cual creo que es un punto de partida importante, pero no se está evaluando al sistema para lo que en realidad se diseño: crear valor para el usuario.
+
+Los modelos estudiados hasta ahora suponen un comportamiento totalmente "racional" de los usuarios, siendo que en la realidad los usuarios no lo son y muchas veces no estan concientes de características propias. Un ejemplo de esto es no ser conciente de tus propios gustos o del orden de prioridad de ellos, algo que probablemente nos pasa a muchos de nosotros. Este tipo de hechos provoca la necesidad de no quedarse solo con lo que los datos dicen, sino que de ir más allá y entender que otro significado puede tener una entrada de un *dataset*. Es aquí donde entra en juego la psicología, una rama esencial en el área de la recomendación a mi parecer, ya que es fundamental entender a un usuario antes de recomendarle.
+
+En el *paper* se habla de distintos fenómenos que, a mi parecer, de seguro afectan los valores de *feedback* explícito entregados por los usuarios. La mayoría de estos fenómenos no son complejos ni difíciles de entender, pero por lo general no son abordados en los modelos de recomendación siendo que muy probablemente son altamente influyentes en estos.
+
+Otro factor clave del que se habla es la confianza. A pesar de la antigüedad del paper, creo que este es un tema latente hoy en día. Quizás muchos enfoques que se hacen en el estudio no siguen siendo igual de válidos, pero sí otros toman mucho más peso, como es el tema de la privacidad. A mi parecer la confianza es fundamental para seguir desarrollando mejores sistemas de recomendación que entreguen valor a los usuarios. Si un usuario piensa que sus recomendaciones están basadas en lo que alguna empresa esté escuchando a través de su micrófono, muy probablemente vea menor valor en ella.
+
+El *framework* de evaluación también cumple un rol clave en los resultados que pueden derivar de ahí. Históricamente los formularios han sido objetivo de estudios, por lo que no es un misterio que estos pueden influir fuertemente en el *output* de una evaluación. Es por esto que me parece muy interesante como hacer un balance entre el esfuerzo y la precisión de una decisión, en este caso evaluación, y más aún, poder predecir ambos factores.
+
+Me gustó mucho leer un *paper* que dejara de lado la investigación de mejores modelos y se centrará en cómo entender a un usuario. Hasta ahora siento que las recomendaciones se realizan pensando en los usuarios como "maquinas", supuesto que no lo veo tan terrible considerando la complejidad de los problemas de recomendación, sin embargo, creo que es esencial empezar a tomar en cuenta el comportamiento humano en los futuros modelos.
