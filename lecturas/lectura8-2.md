@@ -1,1 +1,11 @@
+# Comentario See What You Want to See: Visual User-Driven Approach for Hybrid Recommendation
 
+[![hackmd-github-sync-badge](https://hackmd.io/sbvD3FRTQDeTTvHjqHJWAg/badge)](https://hackmd.io/sbvD3FRTQDeTTvHjqHJWAg)
+
+Al igual que el *paper* anterior de esta semana, creo que es de gran valor el empezar a investigar más en la experiencia del usuario que en el recomendador en sí. En el estudio se hace un acercamiento a esto entregando una interfaz para que el usuario pueda "customizar" y tener control sobre cómo se generarán sus recomendaciones.
+
+El tener control de cómo hacer las recomendaciones y saber en base a qué se hacen es un gran paso para uno de los aspectos críticos de los sistemas recomendadores comentados en el *paper anterior*: la confianza. A mi parecer, esta debiera ser una *feature* presente en todos los sistemas recomendadores y aplicaciones que los utilizan, sin embargo, muchas veces exponer esa información no es conveniente para la empresa o bien es difícil hacerlo de una forma amigable para los usuarios. Debido a lo anterior, creo que el problema de "transparentar" las recomendaciones y la información en la que se basan no es solucionable solo creando una interfaz y transparentando resultados del sistema, sino que tiene una fuerte componente de política, privacidad y diseño de una solución entendible y cómoda para el usuario.
+
+Con respecto a las pruebas de la interfaz, me hubiera gustado poder ver resultados de gente inexperta en el tema utilizándola. Entiendo que es una interfaz técnica y que requiere de ciertos conocimientos para utilizarla, sin embargo, saber el valor que los usuarios le ven a una interfaz similar o más accesible para personas no entendidas en el tema creo que sería de gran aporte.
+
+Por último, si bien siento que el testeo de esta interfaz no cumple el objetivo de saber qué tanto valor agregado ve el usuario en entender mejor sus recomendaciones, debido a que no fue probada con usuarios reales, siento que es un gran primer paso para empezar a investigar en esa dirección. Entendiendo que el estudio es de hace 6 años, estaría muy desilusionado de no ver mayores avances en el estudio de la relación entre los indicadores matemáticos y el verdadero objetivo de los sistemas recomendadores: entregar valor al usuario.
