@@ -1,1 +1,17 @@
+# Comentario "Deep Learning based Recommender System: A Survey and New Perspectives"
 
+[![hackmd-github-sync-badge](https://hackmd.io/-7tT90vUR1WoVB1ovoIM8w/badge)](https://hackmd.io/-7tT90vUR1WoVB1ovoIM8w)
+
+
+El *paper* se contextualiza en el *boom* del *Deep Learning*, seguramente tras los hitos comentados en clases como cuando mediante *Deep Learning* se mejoró significativamente los resultados de clasificación del *dataset ImageNet*. A modo de introducción, se habla a modo muy general e introductorio sobre las ventajas y el estado del arte del *Deep Learning*, además de la importancia de los sistemas recomendadores. Siendo el *Deep Learning* un *approach* relativamente nuevo para el mundo de los sistemas recomendadores, creo que esta introducción es necesaria para validar el porqué de utilizar *Deep Learning* en los sistemas recomendadores. De esta introducción, con lo que más me quedo es con siguiente afirmación
+
+> Deep learning is able to efectively capture the non-linear and non-trivial user-item relationships, and enable the
+codification of more complex abstractions as data representations in the higher layers. 
+
+Luego de introducir ambos mundos, se comenta sobre uno de los objetivos del *paper* mencionado en el título: una encuesta. Hasta tal punto no había ninguna encuesta sobre *Deep Learning* en sistemas recomendadores que fuera lo suficientemente sistemática para añadir valor. A su vez, se propone también orientar los avances del uso de *Deep Learning* a aristas de los sistemas recomendadores que antes no eran abordables con los métodos tradicionales. Hasta este punto de la lectura, me parece que hay un gran estudio del estado del arte por parte de los autores, algo fundamental a la hora de estudiar como integrar algo tan nuevo como el *Deep Learning* a un área tan activa como la de los sistemas recomendadores.
+
+En la subsección 2, se ahonda en el *Deep Learning*. Creo que esto es muy valioso como lectura para nuestro curso, dado que hasta ahora no hemos tocado *DL* siendo que al parecer es lo que "la lleva" en casi todo aspecto de la *AI*. A su vez, comentan también sobre las limitaciones del *DL*, algo que venia esperando hace un par de páginas. A pesar de pertenecer al estado del arte actual, el aprendizaje profundo no puede ser perfecto o la panacea para todos nuestros problemas, por lo que entender sus contras es igual de importante que entender sus pro.
+
+Luego de esto, en la subsección 3 y 4 se habla en su totalidad para describir el estado del arte de ese entonces del *DL* en sistemas recomendadores. Me imagino que no soy el único que, aún leyendo a mínima velocidad, no pudo entender bien los modelos. A priori pienso que no es preocupante, siendo que las descripciones se ven bastante complejas y hasta ahora casi no habiamos tocado *Deep Learning* en clase.
+
+En lo personal siento que no pude llevarme una idea clara aún de como implementar *Deep Learning* en sistemas recomendadores. Percibo la idea de hacer uso de los pro como utilizar representaciones de datos o modelos secuenciales, sin embargo, me falta esa componente más visual o de código para poder asegurar (o al menos pensar) que sería capaz de explicar el uso de *Deep Learning* en sistemas recomendadores.
